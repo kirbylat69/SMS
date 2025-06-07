@@ -8,7 +8,7 @@ Beginner-friendly instructions to help you run the system locally using CMD and 
 In File Explorer, click the folder path bar → type cmd → press Enter
 
 3. Clone the repository (https://github.com/kirbylat69/SMS):
-"git clone https://github.com/your-username/student-management-system.git"
+"(https://github.com/kirbylat69/SMS.git)"
 
 4.Open VSCode, then:
 
